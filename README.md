@@ -1,5 +1,5 @@
 # **Schedule App**
-A Flutter app to keep track of your daily schedule and pending tasks. This app is mainly aimed at school/college students to help them maximize their time utilization.
+A Flutter app to keep track of your daily schedule and pending tasks. This app is mainly aimed at school/college students to help them maximize their time utilization. (This is a modified mobile app version of an older project of mine i.e. [Schedule Web Application](https://github.com/FullMetal1331/schedule))
 
 ## Login/Register
 Users are allowed to register if they are new or login if they are already registered.

@@ -17,7 +17,6 @@ After a successful login/registration the user is redirected to the main screen 
 
 ## TimeTable
 The TimeTable page contains all seven days of the week with entries for each day divided on an hourly basis from 9AM - 6PM.
-(P.S. The pixel overflow is now fixed  :sweat_smile: )
 
 <p align="center">
 <img src='https://raw.githubusercontent.com/FullMetal1331/ScheduleMobileApp/master/images/timetable.gif' height=600 />
@@ -33,12 +32,12 @@ The ToDo list allows users to add a tasks, mark tasks as complete/incomplete on 
 ## User Settings
 > - Subjects List: This list contains all the unique entries in the timetable which helps to provide an overvieww of the same.
 > <p align="center"><img src='https://raw.githubusercontent.com/FullMetal1331/ScheduleMobileApp/master/images/user_subjects.gif' height=600 /></p>
-> - Profile/UserName: Users are allowed to change their display name and using the RoboHash API a robot avatar is generated using the new display name as a query string.
+> - Profile/UserName: Users are allowed to change their display name and using the RoboHash API a robot avatar is generated using the new display name as a query string(P.S. The pixel overflow is now fixed  :sweat_smile: ).
 > <p align="center"><img src='https://raw.githubusercontent.com/FullMetal1331/ScheduleMobileApp/master/images/user_pic.gif' height=600 /></p>
 
 ## Schedule Notifications
 Like the greeting notification shown below the user also gets notifications based on their timetable entries when a scheduled event is within the next 15 mins. A headless event runs in the background every 15 mins( even if the app is closed ) which checks and informs the user about any scheduled events.
 
 <p align="center">
-<img src='https://raw.githubusercontent.com/FullMetal1331/ScheduleMobileApp/master/images/notification.gif' height=600 />
+<img src='https://raw.githubusercontent.com/FullMetal1331/ScheduleMobileApp/master/images/notification.gif' height=200 />
 </p>
